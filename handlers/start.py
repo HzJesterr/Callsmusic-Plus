@@ -48,7 +48,7 @@ Made with ❤️ **@{UPDATES_CHANNEL}**""",
                 ],
                 [
                     InlineKeyboardButton(
-                        "📦 Source Code 📦", url="https://github.com/Itz-fork/Callsmusic-Plus"
+                        "📦 Owner 📦", url="https://t.me/sarikola"
                     )
                 ],
                 [
@@ -56,7 +56,7 @@ Made with ❤️ **@{UPDATES_CHANNEL}**""",
                         "🔰️ My Update Channel 🔰️", url=f"https://t.me/{UPDATES_CHANNEL}"
                     ),
                     InlineKeyboardButton(
-                        "⚜️ Support Group ⚜️", url="https://t.me/Nexa_bots"
+                        "⚜️ Support Group ⚜️", url="https://t.me/Zmonios"
                     )
                 ]
             ]
@@ -155,7 +155,7 @@ Made with ❤️ by **@{UPDATES_CHANNEL}**""",
                 ],
                 [
                     InlineKeyboardButton(
-                        "⚜️ Support Group ⚜️", url="https://t.me/Nexa_bots"
+                        "⚜️ Support Group ⚜️", url="https://t.me/Zmonios"
                     )
                 ]
             ]
@@ -200,7 +200,7 @@ Enjoy 😌️❤️!""",
                         "🔰️ Update Channel 🔰️", url=f"https://t.me/{UPDATES_CHANNEL}"
                     ),
                     InlineKeyboardButton(
-                        "⚜️ Support Group ⚜️", url="https://t.me/Nexa_bots"
+                        "⚜️ Support Group ⚜️", url="https://t.me/Zmonios"
                     )
                 ]
             ]
